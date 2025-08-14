@@ -46,6 +46,7 @@ const styles = StyleSheet.create({
         // elevation: 2
         boxShadow: 'rgba(0, 0, 0, 0.16) 0px 1px 4px',
         borderRadius: 7,
+        // marginBottom: 100
         gap: 20
     },
     tituloValor: {
